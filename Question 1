@@ -1,5 +1,4 @@
 #Question 1 of assignment 1 my simple code of python 1
-
 txt='I just strat leraning python!'
 txt2=" And my name is Sahil Dhankhad"
 print('\n Hello Everyone; Python is very interesting Language! '+txt+txt2)
